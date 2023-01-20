@@ -51,7 +51,6 @@ google-api-python-client==2.72.0
 google-crc32c==1.5.0
 google-pasta==0.2.0
 google-resumable-media==2.4.0
-googleapis-common-protos==1.58.0
 greenlet==0.4.15
 grpcio==1.51.1
 grpcio-status==1.48.2
