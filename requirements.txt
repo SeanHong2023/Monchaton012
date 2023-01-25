@@ -42,7 +42,6 @@ flax==0.6.3
 freetype-py==2.1.0.post1
 future==0.18.2
 gast==0.5.3
-gevent==1.4.0
 gin-config==0.5.0
 gitdb2==2.0.6
 GitPython==3.0.5
