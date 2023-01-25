@@ -68,7 +68,7 @@ joypy==0.2.2
 json-tricks==3.13.6
 jsonschema==4.17.3
 kaggle==1.5.12
-keras==2.8.0
+keras==2.10.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.1.0
 libclang==15.0.6.1
