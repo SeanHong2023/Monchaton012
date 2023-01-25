@@ -94,7 +94,7 @@ neural-structured-learning==1.4.0
 nibabel==3.1.0
 nilearn==0.6.2
 numba==0.53.0
-numexpr==2.7.1
+numexpr==2.8.1
 numpy==1.23.0
 oauthlib==3.2.2
 opencv-python==4.7.0.68
