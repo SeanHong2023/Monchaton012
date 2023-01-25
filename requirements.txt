@@ -186,7 +186,7 @@ termcolor==2.2.0
 text-unidecode==1.3
 tf-models-official==2.3.0
 tf-slim==1.1.0
-tflite-model-maker==0.3.4
+
 tflite-support==0.4.1
 toml==0.10.2
 tomli==2.0.1
