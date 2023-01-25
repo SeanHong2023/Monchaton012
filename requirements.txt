@@ -213,7 +213,6 @@ virtualenv==16.7.9
 wcwidth==0.1.9
 Werkzeug==2.2.2
 wrapt==1.14.1
-wxPython==4.0.7.post2
 xarray==0.15.0
 xgboost==1.1.1
 xlrd==1.2.0
